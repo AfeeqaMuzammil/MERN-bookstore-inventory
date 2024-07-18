@@ -1,6 +1,6 @@
 # Online Bookstore Inventory Management Website
 
-![Bookstore Inventory Management]("C:\Users\M.M Adhill ahmad\Desktop\book 1.png")
+![Bookstore Inventory Management](C:\Users\M.M Adhill ahmad\Desktop\book 1.png)
 
 ## Overview
 
@@ -32,17 +32,5 @@ This project is an online bookstore inventory management system developed using 
 ### User Authentication
 ![User Authentication](path_to_your_authentication_screenshot.png)
 
-## Getting Started
 
-### Prerequisites
-
-- Node.js
-- MongoDB
-
-### Installation
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/AfeeqaMuzammil/MERN-bookstore-inventory.git
-   cd MERN-bookstore-inventory
 
