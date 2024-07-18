@@ -1,6 +1,6 @@
 # Online Bookstore Inventory Management Website
 
-![Bookstore Inventory Management](C:\Users\M.M Adhill ahmad\Desktop\book 1.png)
+![Bookstore Inventory Management](home_page.png)
 
 ## Overview
 
@@ -24,7 +24,7 @@ This project is an online bookstore inventory management system developed using 
 ## Screenshots
 
 ### Home Page
-![Home Page](path_to_your_home_page_screenshot.png)
+![Home Page](home_page.png)
 
 ### Inventory Management
 ![Inventory Management](path_to_your_inventory_management_screenshot.png)
