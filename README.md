@@ -30,7 +30,7 @@ This project is an online bookstore inventory management system developed using 
 ![Inventory Management](path_to_your_inventory_management_screenshot.png)
 
 ### User Authentication
-![User Authentication](path_to_your_authentication_screenshot.png)
+![User Authentication](authentication.png)
 
 
 
