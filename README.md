@@ -27,7 +27,7 @@ This project is an online bookstore inventory management system developed using 
 ![Home Page](home_page.png)
 
 ### Inventory Management
-![Inventory Management](path_to_your_inventory_management_screenshot.png)
+![Inventory Management](inventory_management.png)
 
 ### User Authentication
 ![User Authentication](authentication.png)
